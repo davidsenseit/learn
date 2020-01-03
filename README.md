@@ -1,3 +1,3 @@
 # learn
 
-Added the wrong file it looks like. Will try this instead.
+This is my test project so that I can learn about git and JavaScript
